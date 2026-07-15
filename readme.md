@@ -28,3 +28,6 @@ check first and last character then repeat
 
 decision making is simple using if else
 recursion is useful but can be slow sometimes
+
+## Author
+**Godfred APPIAH BAAH**
